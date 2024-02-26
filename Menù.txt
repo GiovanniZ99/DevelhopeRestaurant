@@ -1,0 +1,14 @@
+Panucci's Pizza
+
+Menù type:
+Meat
+
+Available drink:
+Margarita;
+Cosmopolitan;
+Daiquiri;
+Gimlet;
+Manhattan;
+Negroni;
+Old Fashioned;
+Sex on the beach;
